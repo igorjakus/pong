@@ -1,5 +1,5 @@
 #include "Game.hpp"
-#include "Settings.h"
+#include "Settings.hpp"
 
 void Game::init()
 {

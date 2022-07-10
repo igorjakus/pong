@@ -1,5 +1,5 @@
 #include <SDL2/SDL.h>
-#include "Settings.h"
+#include "Settings.hpp"
 
 
 class Ball : public SDL_Rect {
