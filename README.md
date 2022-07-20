@@ -3,7 +3,7 @@
 Pong game implementation in C++ using SDL2 library.
 You have to fight simple "A.I" enemy!
 
-[//]: <> (TODO: place here image of game)
+<img src=screenshot.png width=1000> 
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/igorjakus/pong?style=social)
 ![GitHub followers](https://img.shields.io/github/followers/igorjakus?style=social)
